@@ -2,11 +2,11 @@
 
 ## Welcome to my GitHub profile!🙋‍♀️
 
-![Illustration](./assets/photo..png)
-
 **I'm a data scientist passionate about turning raw data into actionable insights,
 optimizing workflows, and driving success. Skilled in data-driven problem-solving,
 innovation, and knowledge sharing within the data community.**
+
+![Illustration](./assets/photo..png)
 
 ---
 
@@ -66,5 +66,5 @@ management, focusing on user-friendly interfaces and seamless functionality.
 
 ---
 
-🚀 Always excited to collaborate on data science and machine learning projects.
-Let’s solve problems and innovate together
+**🚀 Always excited to collaborate on data science and machine learning projects.
+Let’s solve problems and innovate together!**
